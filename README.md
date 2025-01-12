@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karanpatill
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/<karanpatil001>)
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/<karanpatil01>)
 
 
 <!---
