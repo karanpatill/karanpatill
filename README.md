@@ -1,8 +1,7 @@
-# 👋 Hi, I’m Karan Patil  
+# Karan Patil  
 
-🚀 **Aspiring Full-Stack Developer | DSA Enthusiast | Tech Innovator**  
-🔍 Currently exploring **MongoDB** and refining my **DSA** skills for placements.  
-💡 Passionate about **problem-solving**, **web development**, and **community building**.  
+**Aspiring Full-Stack Developer | DSA Enthusiast | Tech Innovator**  
+Focused on delivering impactful solutions with expertise in problem-solving, web development, and community building.
 
 ---
 
@@ -10,14 +9,14 @@
 
 - **Programming Languages**: Java, JavaScript, Python  
 - **Web Development**: HTML, CSS, Bootstrap, ReactJS, NodeJS, MongoDB, MySQL, RESTful APIs  
-- **Data Structures & Algorithms**: Daily practice on LeetCode and GitHub  
+- **Data Structures & Algorithms**: Regular practice and problem-solving on LeetCode and GitHub  
 
 ---
 
 ## 🌟 Achievements  
-  
-- 🎓 **Mentor**: Active mentor in the GDSC club, guiding peers in coding and DSA.  
-- 💻 **GitHub Contributions**: Regularly contribute code and projects; 2-3 coding questions solved daily.  
+
+- **Mentor**: Actively mentor peers in the GDSC club, guiding them in coding and DSA.  
+- **GitHub Contributions**: Consistently contribute to projects and solve coding challenges daily.  
 
 ---
 
@@ -31,11 +30,11 @@
 
 ## 🤝 Connect with Me  
 
-- 🌐 [Portfolio Website](https://flowcv.me/karan-patil) 
-- 📸 [Instagram](https://instagram.com/kode.journey)  
-- 💼 [LinkedIn](https://linkedin.com/in/karanpatill)  
-- 📧 Email: [KaranPatil825@gmail.com](mailto:KaranPatil82005@gmail.com)  
+- **Portfolio**: [View Website](https://flowcv.me/karan-patil)  
+- **Instagram**: [kode.journey](https://instagram.com/kode.journey)  
+- **LinkedIn**: [Karan Patil](https://linkedin.com/in/karanpatill)  
+- **Email**: [KaranPatil825@gmail.com](mailto:KaranPatil825@gmail.com)  
 
 ---
 
-✨ *"Consistency is the key to unlocking success!"*
+*"Consistency and dedication are the keys to unlocking success."*
