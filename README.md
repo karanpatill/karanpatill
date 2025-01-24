@@ -30,7 +30,7 @@ Focused on delivering impactful solutions with expertise in problem-solving, web
 
 ## 🤝 Connect with Me  
 
-- **Portfolio**: [View Website](https://flowcv.me/karan-patil)  
+- **Portfolio**: [View Website]( https://karanpatill.github.io/portfolio-Website/)  
 - **Instagram**: [kode.journey](https://instagram.com/kode.journey)  
 - **LinkedIn**: [Karan Patil](https://linkedin.com/in/karanpatill)  
 - **Email**: [KaranPatil825@gmail.com](mailto:KaranPatil825@gmail.com)  
