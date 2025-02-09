@@ -27,10 +27,7 @@ Focused on delivering impactful solutions with expertise in problem-solving, web
   <a href="https://leetcode.com/krishnahasare/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="kk" height="200" width="200" /></a>
   <a href="https://leetcode.com/krishnahasare/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="kk" height="200" width="200" /></a>
 </p>
-<br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/karanpatil01?theme=light&font=Karma&ext=contest)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanpatill&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanpatill&layout=compact&theme=radical)  
+
 
 ---
 
