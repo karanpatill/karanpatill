@@ -19,6 +19,7 @@ Focused on delivering impactful solutions with expertise in problem-solving, web
 - **GitHub Contributions**: Consistently contribute to projects and solve coding challenges daily.  
 
 ---
+![Streak](https://img.shields.io/badge/LeetCode_Streak-50_days-orange?style=for-the-badge&logo=leetcode)
 
 ## 📊 Stats  
 
