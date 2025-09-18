@@ -45,7 +45,7 @@ Focused on delivering impactful solutions with expertise in problem-solving, web
 
 - **Portfolio**: [View Website]( https://karanpatill.github.io/portfolio-Website/)  
 - **Instagram**: [kode.journey](https://instagram.com/kode.journey)  
-- **LinkedIn**: [Karan Patil]([https://linkedin.com/in/karanpatill](https://www.linkedin.com/in/karan-patil-21264421b/ ))  
+- **LinkedIn**: [Karan Patil](www.linkedin.com/in/karan-patill)  
 - **Email**: [KaranPatil825@gmail.com](mailto:KaranPatil825@gmail.com)  
 
 ---
