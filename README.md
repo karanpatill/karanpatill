@@ -37,9 +37,11 @@ Clean Backend Architecture
 
 ## 🔥 LeetCode Stats  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool//karanpatil01?theme=light&font=Baloo)
 
 ---
+
+
 
 ## 🌟 Highlights  
 
