@@ -1,53 +1,60 @@
 # Karan Patil  
 
-**Aspiring Full-Stack Developer | DSA Enthusiast | Tech Innovator**  
-Focused on delivering impactful solutions with expertise in problem-solving, web development, and community building.
+**Full-Stack Developer | Backend-Focused | DSA Practitioner**
+
+Engineering student passionate about building scalable web applications and solving complex algorithmic problems. Strong foundation in backend systems, API development, and database design.
 
 ---
 
-## 🛠️ Skills and Expertise  
+## 🛠 Tech Stack  
 
-- **Programming Languages**: Java, JavaScript, Python  
-- **Web Development**: HTML, CSS, Bootstrap, ReactJS, NodeJS, MongoDB, MySQL, RESTful APIs  
-- **Data Structures & Algorithms**: Regular practice and problem-solving on LeetCode and GitHub  
+### Languages  
+Java | JavaScript | Python  
 
----
+### Frontend  
+ReactJS | HTML5 | CSS3 | Bootstrap  
 
-## 🌟 Achievements  
+### Backend  
+NodeJS | ExpressJS | RESTful APIs  
 
-- **Mentor**: Actively mentor peers in the GDSC club, guiding them in coding and DSA.  
-- **GitHub Contributions**: Consistently contribute to projects and solve coding challenges daily.  
+### Databases  
+MongoDB | MySQL  
 
----
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
- <a href="https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip" alt="LeetCode 50 Days Streak Badge" height="200" width="200" />
-</a>
-
-</p>
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip" />  
-</p>
-
-
-## 📊 Stats  
-  
-![GitHub Stats](https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip)  
-![Top Languages](https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip)  
-
-
+### Core Focus  
+Data Structures & Algorithms  
+System Design Fundamentals  
+Clean Backend Architecture  
 
 ---
 
-## 🤝 Connect with Me  
+## 📊 GitHub Stats  
 
-- **Portfolio**: [View Website]( https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip)  
-- **Instagram**: [https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip](https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip)  
-- **LinkedIn**: [Karan Patil](https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip)  
-- **Email**: [https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip](https://raw.githubusercontent.com/karanpatill/karanpatill/main/common/karanpatill-3.9.zip)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanpatill&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanpatill&layout=compact&hide_border=true)
 
 ---
 
-*"Consistency and dedication are the keys to unlocking success."*
+## 🔥 LeetCode Stats  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Baloo)
+
+---
+
+## 🌟 Highlights  
+
+- Active mentor in GDSC community  
+- Regular contributor to GitHub repositories  
+- Consistent DSA practice and competitive problem solving  
+- Experience deploying full-stack applications  
+
+---
+
+## 🤝 Connect  
+
+Portfolio:https://karan-patil-portfolio-website.vercel.app/)
+LinkedIn: https://www.linkedin.com/in/karan-patill/
+College Email : karanpatil.semco25@dypgroup.edy.in
+personal Emain : karanpatil82005@gmail.com
+
+---
