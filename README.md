@@ -77,18 +77,6 @@ const karan = {
 
 ---
 
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🚀 **[Astroneo](https://astroneo.space)** | Star catalog with 9,000+ stars, 3D models & astronomical data | React, Three.js |
-| 🤖 **BrandForge** | AI carousel SaaS with persistent Brand DNA for Indian SMBs | Astro.js, Gemini, Supabase |
-| 🎓 **CodeMentor AI** | VS Code-style AI coding mentor with memory | React, Groq, Monaco |
-| 🏗️ **FORGE-AI** | Structural intelligence engine for construction | YOLOv8, XGBoost, LSTM |
-| 📊 **Project Eklavya** | Student At-Risk Detection System | XGBoost, Flask, React |
-
----
-
 ### Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanpatill&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
