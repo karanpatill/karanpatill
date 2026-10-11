@@ -27,7 +27,7 @@
 > Currently scaling **[Asenra](https://asenra.in)** — a digital engineering company serving Indian SMBs with web systems, AI agents & workflow automation.
 
 - 🎓 B.Tech CSE · D.Y. Patil SEM, Kolhapur — Year 3
-- 🏢 Founder @ **[Asenra](https://asenra.in)** · built **[Astroneo](https://astroneo.space)[WordSearchBattle](wordsearchbattleonline.com)** (9,000+ star catalog, live users)
+- 🏢 Founder @ **[Asenra](https://asenra.in)** · built **[Astroneo](https://astroneo.space) , [WordSearchBattle](wordsearchbattleonline.com)** (9,000+ star catalog, live users)
 - 🤖 Building with AI: Gemini, Groq, XGBoost, YOLOv8
 - 🌐 Open source contributor · Hackathon builder
 - 📍 Kolhapur, Maharashtra, India
